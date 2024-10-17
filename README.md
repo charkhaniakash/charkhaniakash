@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **charkhaniakash@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Akash%20Charkhani/Downloads/Resumes/Akash%20Resume.pdf](file:///C:/Users/Akash%20Charkhani/Downloads/Resumes/Akash%20Resume.pdf)
+- 📄 Know about my experiences [file:///C:/Users/AkashSangameshCharkh/Downloads/Akash_SDE_Frontend.pdf](file:///C:/Users/AkashSangameshCharkh/Downloads/Akash_SDE_Frontend.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
