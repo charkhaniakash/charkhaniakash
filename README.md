@@ -1,4 +1,4 @@
-i have a githubb profile html cod e, bbased on the latest thing in my resume please update this code [![MasterHead](https://www.shutterstock.com/image-photo/computer-language-programming-javascript-code-600w-1361674454.jpg)](http://charkhaniakash.io/)
+[![MasterHead](https://www.shutterstock.com/image-photo/computer-language-programming-javascript-code-600w-1361674454.jpg)](http://charkhaniakash.io/)
 
 <h1 align="center">Hi 👋, I'm Akash chakhani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
