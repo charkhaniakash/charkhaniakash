@@ -1,7 +1,7 @@
 [![MasterHead](https://www.shutterstock.com/image-photo/computer-language-programming-javascript-code-600w-1361674454.jpg)](http://charkhaniakash.io/)
 
 <h1 align="center">Hi 👋, I'm Akash Charkhani</h1>
-<h3 align="center">A passionate Full-Stack Developer from India 🚀</h3>
+<h3 align="center">A passionate Software Engineer from India 🚀</h3>
 
 <img align="right" width="400" src="https://blog.alexdevero.com/wp-content/uploads/2019/08/12-07-19-16-tips-to-become-a-better-programmer-pt1-blog.jpg" alt="coding">
 
@@ -10,10 +10,14 @@
 - 🔭 I’m currently working at **CoRover.ai as a Full-Stack Developer**
 - 🌱 Actively learning **NestJS, Redis, and GraphQL**
 - 💻 Building production-ready apps using **React, Next.js, Node.js, TypeScript, and MongoDB**
-- 🧠 Exploring **AI Chatbot Integration, API Gateways, and Microservices**
 - 💬 Ask me about **MERN Stack, Clean Architecture, LLD, REST APIs, and Performance Optimization**
 - 📫 Reach me at **charkhaniakash@gmail.com**
-- 🧩 Checkout my latest project: **[MERN Chat App](https://github.com/charkhaniakash/MERN-CHATAPP)**
+
+### 🚀 Highlight Project: Micro-Influencer Marketplace
+- Built a complete end-to-end platform to connect brands with micro-influencers
+- Tech Stack: **Next.js, Supabase, PostgreSQL, Tailwind CSS**
+- Features: Campaign management, influencer discovery, applications, scheduling, payments, and real-time notifications
+- 🔗 [View the project on GitHub](https://github.com/charkhaniakash/microinfluencer-platform) <!-- Change this to your actual repo URL -->
 
 ---
 
