@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-photo/computer-language-programming-javascript-code-600w-1361674454.jpg)](http://charkhaniakash.io/)
+[![MasterHead](https://dry-emerald-44eqvwprcw.edgeone.app/nano-banana-2025-09-07T18-16-53.png/)
 
 <h1 align="center">Hi 👋, I'm Akash Charkhani</h1>
 <h3 align="center">A passionate Software Engineer from India 🚀</h3>
