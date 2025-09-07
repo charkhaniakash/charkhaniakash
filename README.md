@@ -1,5 +1,5 @@
 <!-- Master Head Image -->
-<img src="https://middle-coral-kkqqwx9bxv.edgeone.app/ChatGPT%20Image%20Sep%207,%202025,%2011_58_24%20PM.png" alt="MasterHead" >
+<img src="https://running-turquoise-mdn3vgnr9g.edgeone.app/Test.png" alt="MasterHead" >
 
 <h1 align="center">Hi 👋, I'm Akash Charkhani</h1>
 <h3 align="center">A passionate Software Engineer from India 🚀</h3>
