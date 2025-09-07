@@ -22,9 +22,8 @@
 - Built a complete end-to-end platform to connect brands with micro-influencers
 - Tech Stack: **Next.js, Supabase, PostgreSQL, Tailwind CSS**
 - Features: Campaign management, influencer discovery, applications, scheduling, payments, and real-time notifications
-- 🔗 [View the project on GitHub]([https://github.com/charkhaniakash/microinfluencer-platform](https://github.com/charkhaniakash/my_work/tree/akash-dev/micro-influencer-marketplace))
+- 🔗 [View the project on GitHub](https://github.com/charkhaniakash/my_work/tree/akash-dev/micro-influencer-marketplace)
 
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
